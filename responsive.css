@@ -1,0 +1,15 @@
+@media (max-width:600px) {
+    .container,.task{
+        margin: 40px 10px;
+        min-width: 360px;   
+        
+    }
+    body{
+        background-image: url("bg.jpeg");
+        border: 3px solid burlywood;
+    }
+    .title{
+        color:rebeccapurple;
+        margin-top: 30px;
+    }
+}
